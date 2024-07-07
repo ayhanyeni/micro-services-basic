@@ -1,0 +1,15 @@
+
+T
+java:S1128"7Remove this unused import 'jakarta.persistence.Entity'.(…ÅÊÆ8ŒêÌûé1
+\
+java:S1128"?Remove this unused import 'jakarta.persistence.GeneratedValue'.(‘ŒÇŒ8±ÃÌûé1
+\
+java:S1128"?Remove this unused import 'jakarta.persistence.GenerationType'.(²ºëÊ8²ÃÌûé1
+P
+java:S1128"3Remove this unused import 'jakarta.persistence.Id'.(š¨ô 8²ÃÌûé1
+S
+java:S1128"6Remove this unused import 'jakarta.persistence.Table'.(Ÿ£‘ã8êÌûé1
+X
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8êÌûé1
+R
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›8±Òûé1
